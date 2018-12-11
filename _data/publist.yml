@@ -8,6 +8,16 @@
   highlight: 1
   news2:
 
+- title: "Design and construction of a cost-efficient Arduino-based mirror galvanometer system for scanning optical microscopy"
+  image: 
+  description: 
+  authors: Jen-Feng Hsu, Shonali Dhingra, and Brian D’Urso
+  link:
+    url: https://aapt.scitation.org/doi/abs/10.1119/1.4972046
+    display: "American Journal of Physics 85 (2017)"
+  highlight: 0
+  news2:
+
 - title: "Nitrogen vacancy centers in diamond as angle-squared sensors"
   image: 
   description: The possibility of using nitrogen vacancy centers in a diamond nanocrystal as an angle-squared sensor for quantum non-demolition measurements is demonstrated."
