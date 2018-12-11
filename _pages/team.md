@@ -1,19 +1,18 @@
 ---
-title: "Allan Lab - Team"
+title: "D'Urso Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "D'Urso Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new Ph.D. students, Master students, and undergraduates to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
+Jump to [graduate students](#graduate-students), [undergraduate students](#undergraduate-students), [alumni](#alumni).
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Staff
+## Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +77,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
