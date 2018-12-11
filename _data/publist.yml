@@ -48,3 +48,33 @@
   highlight: 0
   news2:
   
+- title: "New measurement of the electron magnetic moment using a one-electron quantum cyclotron"
+  image: 
+  description: 
+  authors: Brian Odom, David Hanneke, Brian D’Urso, and Gerald Gabrielse
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.97.030801
+    display: "Physical Review Letters 97, no. 3 (2006): 030801"
+  highlight: 0
+  news2:
+
+- title: "Feedback cooling of a one-electron oscillator"
+  image: 
+  description: 
+  authors: Brian D’Urso, Brian Odom, and Gerald Gabrielse
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.043001
+    display: "Physical review letters 90, no. 4 (2003): 043001"
+  highlight: 0
+  news2:
+     
+- title: "Single-particle self-excited oscillator"
+  image: 
+  description: 
+  authors: Brian D’Urso, Ramon Van Handel, Brian Odom, and Gerald Gabrielse
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.94.113002
+    display: "Physical review letters 94, no. 11 (2005): 113002"
+  highlight: 0
+  news2:
+  
