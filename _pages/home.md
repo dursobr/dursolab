@@ -45,9 +45,9 @@ We are a research group in the [Department of Physics](http://www.physics.montan
 
 **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team**
 
-We are grateful for funding from [Montana State University](http://www.montana.edu/), the [National Science Foundation](https://www.nsf.gov/), and the [II-VI Foundation](http://www.ii-vifoundation.com/) block gift program.
+We are grateful for funding from [Montana State University](http://www.montana.edu/), the [National Science Foundation](https://www.nsf.gov/), and the [II-VI Foundation](http://www.ii-vifoundation.com/) Block-Gift Program.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_4-Color_bitmap_Logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/II-VI_foundationLogo-01.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/II-VI_foundationLogo-01.jpg" style="width: 310px">
 </figure>
