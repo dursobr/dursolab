@@ -4,7 +4,7 @@
   email: durso@montana.edu
   number_educ: 2
   education1: Bachelor of Science in Physics, California Institute of Technology
-  education2: Ph.D. Harvard University
+  education2: Ph.D. in Physics, Harvard University
 
 - name: Bradley Slezak
   photo: Slezak_Brad.jpg
@@ -12,7 +12,15 @@
   email: bradley.slezak@montana.edu
   number_educ: 2
   education1: Bachelor degree in Computer Engineering, University of Pittsburgh
-  education2: Ph.D. University of Pittsburgh
+  education2: Ph.D. in Physics, University of Pittsburgh
+
+- name: Walter Klahold
+  photo: Klahold_Walter.jpg
+  info: Postdoctoral researcher
+  email: wak19@pitt.edu
+  number_educ: 2
+  education1: Bachelor degree
+  education2: Ph.D. in Physics, University of Pittsburgh
 
 - name: Charles Lewandowski
   photo: Lewandowski_Charles.jpg
