@@ -14,6 +14,7 @@ We are a research group in the [Department of Physics](http://www.physics.montan
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
@@ -27,6 +28,9 @@ We are a research group in the [Department of Physics](http://www.physics.montan
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DSCF5010.JPG" alt="Slide 3" />
+        </div>
+           <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DSCF5927-cropped.JPG" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
