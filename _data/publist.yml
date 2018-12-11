@@ -8,7 +8,17 @@
   highlight: 1
   news2:
 
-- title: "Cooling the motion of diamond nanocrystals in a magneto-gravitational trap in high vacuum."
+- title: "Nitrogen vacancy centers in diamond as angle-squared sensors"
+  image: Pub_Hsu-2016-1.png
+  description: The photoluminescence of trapped diamond nanocrystals is observed while the center of mass motion is cooled by feedback.
+  authors: Shonali Dhingra and Brian D’Urso
+  link:
+    url: http://iopscience.iop.org/article/10.1088/1361-648X/aa6697/meta
+    display:  Journal of Physics: Condensed Matter 29 (2017)
+  highlight: 0
+  news2:
+  
+- title: "Cooling the motion of diamond nanocrystals in a magneto-gravitational trap in high vacuum"
   image: Pub_Hsu-2016-1.png
   description: The photoluminescence of trapped diamond nanocrystals is observed while the center of mass motion is cooled by feedback.
   authors: Jen-Feng Hsu, Peng Ji, Charles W. Lewandowski, and Brian D’Urso
