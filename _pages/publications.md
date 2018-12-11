@@ -53,7 +53,7 @@ For a full list see [Google Scholar](https://scholar.google.com/citations?user=w
 <p> &nbsp; </p>
 
 
-## Full List
+## Select Publications
 
 {% for publi in site.data.publist %}
 
