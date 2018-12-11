@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-For a full list see [Google Scholar](https://scholar.google.com/citations?user=wUGgTccAAAAJ&hl=en)
+For a full list see [Google Scholar](https://scholar.google.com/citations?user=wUGgTccAAAAJ&hl=en).
 
 
 ## Highlights
