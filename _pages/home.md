@@ -43,7 +43,7 @@ We are a research group in the [Department of Physics](http://www.physics.montan
   </a>
 </div>
 
-**We are  looking for passionate new Ph.D. students, Master students, and undergraduates to join the team**
+**We are  looking for passionate new Ph.D. students, Master students, and undergraduates to join the team!**
 
 We are grateful for funding from [Montana State University](http://www.montana.edu/), the [National Science Foundation](https://www.nsf.gov/), and the [II-VI Foundation](http://www.ii-vifoundation.com/) Block-Gift Program.
 
