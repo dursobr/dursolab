@@ -1,10 +1,8 @@
-- name: Gijsbert Verdoes
-  photo: verdoes.jpg
-  duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: verdoes@fmd.physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse instrumentmakers School
-  education2:
-  education3:
-  education4:
+- name: Jen-Feng Hsu
+  photo: Hsu_Jen-Feng.jpg
+  duration: In the D'Urso Lab - 2016, now postdoc with the Frolov group at the University of Pittsburgh
+  email: jeh114@pitt.edu
+  number_educ: 2
+  education1: Bachelor of Science in Physics, National Central University, Taiwan
+  education2: Ph.D. in Physics, University of Pittsburgh
+
