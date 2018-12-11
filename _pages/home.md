@@ -45,7 +45,7 @@ We are a research group in the [Department of Physics](http://www.physics.montan
 
 [Montana State University](http://www.montana.edu/) is as remarkable as its setting. Created as a land-grant institution, it is a welcoming, adventurous community of students, faculty and staff distinguished by its commitment to address the world's greatest challenges. The university energizes individuals to discover and pursue their aspirations. It inspires people to engage with the university to improve the human prospect through excellence in education, research, creativity and civic responsibility.
 
-**We are  looking for passionate new Ph.D. students, Master students, and undergraduates to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**We are  looking for passionate new Ph.D. students, master students, and undergraduates to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 We are grateful for funding from [Montana State University](http://www.montana.edu/), the [National Science Foundation](https://www.nsf.gov/), and the [II-VI Foundation](http://www.ii-vifoundation.com/) Block-Gift Program.
 
