@@ -68,16 +68,6 @@
   highlight: 0
   news2:
 
-- title: "Feedback cooling of a one-electron oscillator"
-  image: 
-  description: 
-  authors: Brian D’Urso, Brian Odom, and Gerald Gabrielse
-  link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.043001
-    display: "Physical review letters 90, no. 4 (2003): 043001"
-  highlight: 0
-  news2:
-     
 - title: "Single-particle self-excited oscillator"
   image: 
   description: 
@@ -88,3 +78,13 @@
   highlight: 0
   news2:
   
+- title: "Feedback cooling of a one-electron oscillator"
+  image: 
+  description: 
+  authors: Brian D’Urso, Brian Odom, and Gerald Gabrielse
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.043001
+    display: "Physical review letters 90, no. 4 (2003): 043001"
+  highlight: 0
+  news2:
+    
