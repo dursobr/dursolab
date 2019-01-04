@@ -6,9 +6,17 @@
   education1: Bachelor of Science in Physics, California Institute of Technology
   education2: Ph.D. in Physics, Harvard University
 
+- name: Paul Nachman
+  photo: Nachman_Paul.jpg
+  info: Affiliate Research Professor
+  email: paul.nachman@montana.edu
+  number_educ: 2
+  education1: Bachelor degree in 
+  education2: Ph.D. in 
+
 - name: Bradley Slezak
   photo: Slezak_Bradley.jpg
-  info: Postdoctoral researcher
+  info: Postdoctoral Researcher
   email: bradley.slezak@montana.edu
   number_educ: 2
   education1: Bachelor degree in Computer Engineering, University of Pittsburgh
@@ -16,7 +24,7 @@
 
 - name: Walter Klahold
   photo: Klahold_Walter.jpg
-  info: Postdoctoral researcher
+  info: Postdoctoral Researcher
   email: wak19@pitt.edu
   number_educ: 3
   education1: Bachelor of Science in Physics, Millersville University
@@ -25,7 +33,7 @@
 
 - name: Charles Lewandowski
   photo: Lewandowski_Charles.jpg
-  info: Graduate student
+  info: Graduate Student
   email: charles.lewandowski@student.montana.edu
   number_educ: 1
   education1: Bachelor of Science in Mathematics and Bachelor of Science in Physics, University of Pittsburgh
