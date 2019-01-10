@@ -12,7 +12,7 @@ permalink: /team/
 
 Jump to [graduate students, postdoctoral researchers, and staff](#graduate-students-postdoctoral-researchers-and-staff), [undergraduate students](#undergraduate-students), [alumni](#alumni).
 
-## Graduate Students, Postdoctoral Researchers, and Staff
+## Graduate Students, Postdoctoral Researchers, and Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
