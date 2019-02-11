@@ -8,6 +8,13 @@
 #  education3:
 #  education4:
 
+- name: Silas Andrews
+  photo: 
+  info: Undergraduate student
+  email: 
+  number_educ: 0
+  education1:
+
 - name: Dakota Chapman
   photo: Chapman_Dakota.jpg
   info: Undergraduate student
@@ -15,15 +22,8 @@
   number_educ: 0
   education1:
   
-- name: Adam Copeland
-  photo: 
-  info: Undergraduate student
-  email: 
-  number_educ: 0
-  education1:
-
 - name: Emilyn Kracher
-  photo: 
+  photo: Kracher_Emilyn.jpg
   info: Undergraduate student
   email: 
   number_educ: 0
