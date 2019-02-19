@@ -10,7 +10,7 @@ permalink: /team/
 
  **We are  looking for new Ph.D. students, master students, and undergraduates to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
-Jump to [graduate students, postdoctoral researchers, and staff](#graduate-students-postdoctoral-researchers-and-staff), [undergraduate students](#undergraduate-students), [alumni](#alumni).
+Jump to [graduate students, postdoctoral researchers, and faculty](#graduate-students-postdoctoral-researchers-and-faculty), [undergraduate students](#undergraduate-students), [alumni](#alumni).
 
 ## Graduate Students, Postdoctoral Researchers, and Faculty
 {% assign number_printed = 0 %}
