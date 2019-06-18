@@ -51,7 +51,7 @@ We are grateful for funding from [Montana State University](http://www.montana.e
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSU.jpg" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_4-Color_bitmap_Logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/II-VI_foundationLogo-01.jpg" style="width: 310px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_4-Color_bitmap_Logo.png" style="height: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/II-VI_foundationLogo-01.jpg" style="height: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MT_NASA_epscor.png" style="width: 200px">
 </figure>
