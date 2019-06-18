@@ -50,8 +50,8 @@ We are a research group in the [Department of Physics](http://www.physics.montan
 We are grateful for funding from [Montana State University](http://www.montana.edu/), the [National Science Foundation](https://www.nsf.gov/), the [II-VI Foundation](http://www.ii-vifoundation.com/) Block-Gift Program, and the [Montana NASA EPSCoR](https://nasaepscor.montana.edu/) program.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSU.jpg" style="height: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_4-Color_bitmap_Logo.png" style="height: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/II-VI_foundationLogo-01.jpg" style="height: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MT_NASA_epscor.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSU.jpg" style="height: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_4-Color_bitmap_Logo.png" style="height: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/II-VI_foundationLogo-01.jpg" style="height: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MT_NASA_epscor.png" style="height: 70px">
 </figure>
