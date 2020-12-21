@@ -14,33 +14,16 @@
   education1: Bachelor of Arts in Physics, Carleton College
   education2: Ph.D. in Astronomy and Astrophysics, University of Chicago
 
-- name: Bradley Slezak
-  photo: Slezak_Bradley.jpg
-  info: Postdoctoral Researcher
-  email: bradley.slezak@montana.edu
-  number_educ: 2
-  education1: Bachelor degree in Computer Engineering, University of Pittsburgh
-  education2: Ph.D. in Physics, University of Pittsburgh
-
-- name: Walter Klahold
-  photo: Klahold_Walter.jpg
-  info: Postdoctoral Researcher
-  email: wak19@pitt.edu
-  number_educ: 3
-  education1: Bachelor of Science in Physics, Millersville University
-  education2: Master of Science in Physics, University of Pittsburgh
-  education3: Ph.D. in Physics, University of Pittsburgh
-
-- name: Charles Lewandowski
-  photo: Lewandowski_Charles.jpg
-  info: Graduate Student
-  email: charles.lewandowski@student.montana.edu
-  number_educ: 1
-  education1: Bachelor of Science in Mathematics and Bachelor of Science in Physics, University of Pittsburgh
-
 - name: Connor Murphy
   photo: Murphy_Connor.jpg
   info: Graduate student
   email: 
   number_educ: 1
   education1: Bachelor of Science in Physics and Mathematics, Grove City College
+  
+- name: Dakota Chapman
+  photo: Chapman_Dakota.jpg
+  info: Graduate student
+  email: dakota.chapman@student.montana.edu
+  number_educ: 1
+  education1: Bachelor of Science in Physics, Montana State University
