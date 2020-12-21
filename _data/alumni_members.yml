@@ -15,7 +15,8 @@
 
 - name: Walter Klahold
   photo: Klahold_Walter.jpg
-  duration: Postdoctoral Researcher in the D'Urso Lab - 2018-2019, now working at Green Bank Observatory (Green Bank, WV)
+  duration: 2018-2019
+  role: Postdoctoral researcher, now working at Green Bank Observatory (Green Bank, WV)
   number_educ: 3
   education1: Bachelor of Science in Physics, Millersville University
   education2: Master of Science in Physics, University of Pittsburgh
@@ -23,7 +24,8 @@
 
 - name: Jen-Feng Hsu
   photo: Hsu_Jen-Feng.jpg
-  duration: Graduate student in the D'Urso Lab - 2016, now detector physicist at Kromek.
+  duration: 2011-2016
+  role: Graduate student, now detector physicist at Kromek.
   info: First to develop magneto-gravitational trap, trap diamond microcrystals.
   email: jeh114@pitt.edu
   number_educ: 2
@@ -32,7 +34,8 @@
 
 - name: Elliot Jenner
   photo: Jenner_Elliot.jpg
-  duration: Graduate student in the D'Urso Lab - 2015
+  duration: 2008-2015
+  role: Graduate student
   info: Studies of nanostructured and superhydrophobic materials.
   email: 
   number_educ: 2
@@ -41,7 +44,8 @@
 
 - name: Shonali Dhingra
   photo: Dhingra_Shonali.jpg
-  duration: Graduate student in the D'Urso Lab - 2015, now postdoc at UCLA
+  duration: 2009-2015
+  role: Graduate student, now postdoc at UCLA
   info: Growth of graphene, fabrication of graphene nanomechanical devices, and use of NV centers in diamond for QND measurements.
   email: 
   number_educ: 3
