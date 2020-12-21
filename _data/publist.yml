@@ -1,3 +1,13 @@
+- title: "Active optical table tilt stabilization"
+  image: 
+  description: 
+  authors: Charles W. Lewandowski, Tyler D. Knowles, Zachariah B. Etienne, and Brian D'Urso
+  link:
+    url: https://doi.org/10.1063/5.0006916
+    display: Review of Scientific Instruments 91, 076102 (2020)
+  highlight: 0
+  news2:
+
 - title: "A microsphere molecule: The interaction of two charged microspheres in a magneto-gravitational trap"
   image: Pub_Slezak-2019-1.jpeg
   description: Two microspheres in a magneto-gravitational trap interact with molecule-like behavior.
