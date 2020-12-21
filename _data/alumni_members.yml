@@ -1,3 +1,24 @@
+- name: Bradley Slezak
+  photo: Slezak_Bradley.jpg
+  duration: Graduate student - 2018 and postdoctoral researcher in the D'Urso Lab 2018-2020, now working at ADVR (Bozeman, MT)
+  number_educ: 2
+  education1: Bachelor degree in Computer Engineering, University of Pittsburgh
+  education2: Ph.D. in Physics, University of Pittsburgh
+
+- name: Charles Lewandowski
+  photo: Lewandowski_Charles.jpg
+  duration: Graduate Student in the D'Urso Lab - 2020, now NRC postdoc at AFRL (Albuquerque, NM)
+  number_educ: 1
+  education1: Bachelor of Science in Mathematics and Bachelor of Science in Physics, University of Pittsburgh
+
+- name: Walter Klahold
+  photo: Klahold_Walter.jpg
+  duration: Postdoctoral Researcher in the D'Urso Lab - 2018-2019, now working at Green Bank Observatory (Green Bank, WV)
+  number_educ: 3
+  education1: Bachelor of Science in Physics, Millersville University
+  education2: Master of Science in Physics, University of Pittsburgh
+  education3: Ph.D. in Physics, University of Pittsburgh
+
 - name: Jen-Feng Hsu
   photo: Hsu_Jen-Feng.jpg
   duration: Graduate student in the D'Urso Lab - 2016, now detector physicist at Kromek.
