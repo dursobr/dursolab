@@ -1,7 +1,7 @@
 - name: Bradley Slezak
   photo: Slezak_Bradley.jpg
   duration: 2016-2020
-  info: Graduate student and postdoctoral researcher, now working at ADVR (Bozeman, MT)
+  info: Graduate student and postdoctoral researcher, now working at ADVR (Bozeman, MT).
   number_educ: 2
   education1: Bachelor degree in Computer Engineering, University of Pittsburgh
   education2: Ph.D. in Physics, University of Pittsburgh
@@ -9,14 +9,14 @@
 - name: Charles Lewandowski
   photo: Lewandowski_Charles.jpg
   duration: 2015-2020
-  info: Graduate Student, now NRC postdoc at AFRL (Albuquerque, NM)
+  info: Graduate Student, now NRC postdoc at AFRL (Albuquerque, NM).
   number_educ: 1
   education1: Bachelor of Science in Mathematics and Bachelor of Science in Physics, University of Pittsburgh
 
 - name: Walter Klahold
   photo: Klahold_Walter.jpg
   duration: 2018-2019
-  info: Postdoctoral researcher, now working at Green Bank Observatory (Green Bank, WV)
+  info: Postdoctoral researcher, now working at Green Bank Observatory (Green Bank, WV).
   number_educ: 3
   education1: Bachelor of Science in Physics, Millersville University
   education2: Master of Science in Physics, University of Pittsburgh
@@ -25,7 +25,7 @@
 - name: Jen-Feng Hsu
   photo: Hsu_Jen-Feng.jpg
   duration: 2011-2016
-  info: Graduate student (first to develop magneto-gravitational trap and trap diamond microcrystals), now detector physicist at Kromek..
+  info: Graduate student (first to develop magneto-gravitational trap and trap diamond microcrystals), now detector physicist at Kromek (Zelienople, PA).
   email: jeh114@pitt.edu
   number_educ: 2
   education1: Bachelor of Science in Physics, National Central University, Taiwan
