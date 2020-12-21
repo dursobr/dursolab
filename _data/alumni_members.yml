@@ -1,7 +1,7 @@
 - name: Bradley Slezak
   photo: Slezak_Bradley.jpg
   duration: 2016-2020
-  role: Graduate student and postdoctoral researcher, now working at ADVR (Bozeman, MT)
+  info: Graduate student and postdoctoral researcher, now working at ADVR (Bozeman, MT)
   number_educ: 2
   education1: Bachelor degree in Computer Engineering, University of Pittsburgh
   education2: Ph.D. in Physics, University of Pittsburgh
@@ -9,14 +9,14 @@
 - name: Charles Lewandowski
   photo: Lewandowski_Charles.jpg
   duration: 2015-2020
-  role: Graduate Student, now NRC postdoc at AFRL (Albuquerque, NM)
+  info: Graduate Student, now NRC postdoc at AFRL (Albuquerque, NM)
   number_educ: 1
   education1: Bachelor of Science in Mathematics and Bachelor of Science in Physics, University of Pittsburgh
 
 - name: Walter Klahold
   photo: Klahold_Walter.jpg
   duration: 2018-2019
-  role: Postdoctoral researcher, now working at Green Bank Observatory (Green Bank, WV)
+  info: Postdoctoral researcher, now working at Green Bank Observatory (Green Bank, WV)
   number_educ: 3
   education1: Bachelor of Science in Physics, Millersville University
   education2: Master of Science in Physics, University of Pittsburgh
@@ -25,8 +25,7 @@
 - name: Jen-Feng Hsu
   photo: Hsu_Jen-Feng.jpg
   duration: 2011-2016
-  role: Graduate student, now detector physicist at Kromek.
-  info: First to develop magneto-gravitational trap, trap diamond microcrystals.
+  info: Graduate student (first to develop magneto-gravitational trap and trap diamond microcrystals), now detector physicist at Kromek..
   email: jeh114@pitt.edu
   number_educ: 2
   education1: Bachelor of Science in Physics, National Central University, Taiwan
@@ -35,8 +34,7 @@
 - name: Elliot Jenner
   photo: Jenner_Elliot.jpg
   duration: 2008-2015
-  role: Graduate student
-  info: Studies of nanostructured and superhydrophobic materials.
+  info: Graduate student (studies of nanostructured and superhydrophobic materials).
   email: 
   number_educ: 2
   education1: Bachelor of Science, Rochester Institute of Technology
@@ -45,8 +43,7 @@
 - name: Shonali Dhingra
   photo: Dhingra_Shonali.jpg
   duration: 2009-2015
-  role: Graduate student, now postdoc at UCLA
-  info: Growth of graphene, fabrication of graphene nanomechanical devices, and use of NV centers in diamond for QND measurements.
+  info: Graduate student (fabrication of graphene nanomechanical devices, and use of NV centers in diamond for QND measurements), now postdoc at UCLA.
   email: 
   number_educ: 3
   education1: Bachelor of Science Physics in 2006 and 2008, St. Stephen's College, University of Delhi, India
